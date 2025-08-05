@@ -7,8 +7,8 @@
   "authors": ["Feralitt"],
   "contact": {
     "homepage": "https://modrinth.com/mod/cdov",
-    "issues": "https://github.com/${mod_source}/issues",
-    "sources": "https://github.com/${mod_source}"
+    "issues": "https://github.com/Feralitt/cool_direction_of_view/issues",
+    "sources": "https://github.com/Feralitt/cool_direction_of_view"
   },
   "license": "GNU GPL v3",
   "icon": "assets/cool_direction_of_view/textures/icon.png",

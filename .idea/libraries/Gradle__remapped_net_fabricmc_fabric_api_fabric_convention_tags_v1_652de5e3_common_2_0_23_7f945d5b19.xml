@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: remapped.net.fabricmc.fabric-api:fabric-convention-tags-v1-652de5e3-common:2.0.23+7f945d5b19" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="remapped.net.fabricmc.fabric-api" artifactId="fabric-convention-tags-v1-652de5e3-common" version="2.0.23+7f945d5b19" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-652de5e3-common/2.0.23+7f945d5b19/fabric-convention-tags-v1-652de5e3-common-2.0.23+7f945d5b19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,5 @@
+{
+  "key.cool_direction_of_view.snap": "Snap camera view",
+  "category.cool_direction_of_view.keys": "Cool Direction of View",
+  "modmenu.description": "Snaps camera to nearest cardinal direction.\nHold ↑ to reset vertical view angle.\nKey can be rebinded in controls"
+}

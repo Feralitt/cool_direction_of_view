@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: remapped.net.fabricmc.fabric-api:fabric-resource-conditions-api-v1-652de5e3-common:4.3.0+8dc279b119" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="remapped.net.fabricmc.fabric-api" artifactId="fabric-resource-conditions-api-v1-652de5e3-common" version="4.3.0+8dc279b119" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-652de5e3-common/4.3.0+8dc279b119/fabric-resource-conditions-api-v1-652de5e3-common-4.3.0+8dc279b119.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

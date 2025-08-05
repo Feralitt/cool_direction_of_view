@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: remapped.net.fabricmc.fabric-api:fabric-crash-report-info-v1-652de5e3-common:0.2.29+0af3f5a719" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="remapped.net.fabricmc.fabric-api" artifactId="fabric-crash-report-info-v1-652de5e3-common" version="0.2.29+0af3f5a719" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-652de5e3-common/0.2.29+0af3f5a719/fabric-crash-report-info-v1-652de5e3-common-0.2.29+0af3f5a719.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

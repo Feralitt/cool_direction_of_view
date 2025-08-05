@@ -1,0 +1,5 @@
+{
+  "key.cool_direction_of_view.snap": "Поворот камеры",
+  "category.cool_direction_of_view.keys": "Cool Direction of View",
+  "modmenu.description": "Поворачивает камеру к ближайшей стороне света.\nУдерживая ↑, вертикальный угол поворота сбросится.\nКлавишу можно изменить"
+}

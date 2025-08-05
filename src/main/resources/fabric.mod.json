@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "cool_direction_of_view",
+  "version": "${version}",
+  "name": "cool direction of view",
+  "description": "Snaps camera to nearest cardinal direction.\nHold ↑ to reset vertical view angle.\nKey can be rebinded in controls",
+  "authors": ["Feralitt"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/cdov",
+    "issues": "https://github.com/${mod_source}/issues",
+    "sources": "https://github.com/${mod_source}"
+  },
+  "license": "GNU GPL v3",
+  "icon": "assets/cool_direction_of_view/textures/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "fabric-datagen": [
+      "feralitt.cool_direction_of_view.client.Cool_direction_of_viewDataGenerator"
+    ],
+    "client": [
+      "feralitt.cool_direction_of_view.client.Cool_direction_of_viewClient"
+    ],
+    "main": [
+      "feralitt.cool_direction_of_view.Cool_direction_of_view"
+    ]
+  },
+  "mixins": [
+    "cool_direction_of_view.mixins.json",
+    {
+      "config": "cool_direction_of_view.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

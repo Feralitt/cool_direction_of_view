@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: remapped.net.fabricmc.fabric-api:fabric-rendering-fluids-v1-652de5e3-common:3.1.6+1daea21519" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="remapped.net.fabricmc.fabric-api" artifactId="fabric-rendering-fluids-v1-652de5e3-common" version="3.1.6+1daea21519" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-652de5e3-common/3.1.6+1daea21519/fabric-rendering-fluids-v1-652de5e3-common-3.1.6+1daea21519.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
